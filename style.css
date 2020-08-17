@@ -36,13 +36,13 @@ div {
     left: 0px;
 }
 
-.white-1 {
+.putih-1 {
     background-color: white;
     width: 284px;
     height: 224px;
 }
 
-.white-2 {
+.putih-2 {
     background-color: white;
     width: 142px;
     height: 118px;
@@ -50,7 +50,7 @@ div {
     clip-path: ellipse(183px 151px at 178px -30px);
 }
 
-.white-3 {
+.putih-3 {
     background-color: white;
     width: 142px;
     height: 118px;
@@ -60,14 +60,14 @@ div {
     transform: scaleX(-1);
 }
 
-.red-1 {
+.merah-1 {
     background-color: #E6292E;
     width: 142.86px;
     height: 24.6px;
     top: 46px;
 }
 
-.red-2 {
+.merah-2 {
     background-color: #E6292E;
     width: 142.86px;
     height: 24.6px;
@@ -75,7 +75,7 @@ div {
     left: 142px;
 }
 
-.red-3 {
+.merah-3 {
     background-color: #E6292E;
     width: 90.86px;
     height: 24.1px;
@@ -84,7 +84,7 @@ div {
     transform: rotateZ(-29deg);
 }
 
-.red-4 {
+.merah-4 {
     background-color: #E6292E;
     width: 80px;
     height: 24.6px;
@@ -93,7 +93,7 @@ div {
     transform: rotateZ(-29deg);
 }
 
-.white-4 {
+.putih-4 {
     background-color: white;
     width: 142px;
     height: 38.6px;
@@ -101,7 +101,7 @@ div {
     border-bottom-right-radius: 28px;
 }
 
-.white-5 {
+.putih-5 {
     background-color: white;
     width: 80px;
     height: 24.6px;
@@ -110,7 +110,7 @@ div {
     transform: rotateZ(-29deg);
 }
 
-.red-5 {
+.merah-5 {
     border: 23px solid #E6292E;
     border-radius: 100%;
     width: 96px;
@@ -120,7 +120,7 @@ div {
     transform: translate(-50%, -50%);
 }
 
-.white-6 {
+.putih-6 {
     background-color: white;
     width: 71px;
     height: 70px;
@@ -128,7 +128,7 @@ div {
     left: 117px;
 }
 
-.red-6 {
+.merah-6 {
     background-color: #E6292E;
     width: 23px;
     height: 71.5px;
@@ -136,7 +136,7 @@ div {
     left: 142.6px;
 }
 
-.red-7 {
+.merah-7 {
     background-color: #E6292E;
     width: 46.86px;
     height: 23.5px;
@@ -144,7 +144,7 @@ div {
     left: 142.6px;
 }
 
-.red-8 {
+.merah-8 {
     background-color: #E6292E;
     width: 22.86px;
     height: 34.5px;
@@ -152,7 +152,7 @@ div {
     left: 25px;
 }
 
-.red-9 {
+.merah-9 {
     background-color: #E6292E;
     width: 22.86px;
     height: 34.5px;
@@ -161,7 +161,7 @@ div {
     clip-path: ellipse(22px 44px at 22px 44px);
 }
 
-.red-10 {
+.merah-10 {
     background-color: #E6292E;
     width: 22.86px;
     height: 34.5px;
@@ -171,7 +171,7 @@ div {
     transform: rotateZ(20deg);
 }
 
-.red-11 {
+.merah-11 {
     background-color: #E6292E;
     width: 22.86px;
     height: 34.5px;
@@ -181,7 +181,7 @@ div {
     transform: rotateZ(28deg);
 }
 
-.red-12 {
+.merah-12 {
     background-color: #E6292E;
     width: 29.86px;
     height: 42.5px;
@@ -189,7 +189,7 @@ div {
     left: 47px;
 }
 
-.white-7 {
+.putih-7 {
     background-color: white;
     width: 32.86px;
     height: 34.5px;
@@ -198,7 +198,7 @@ div {
     clip-path: ellipse(23px 41px at 23px 44px);
 }
 
-.white-8 {
+.putih-8 {
     background-color: white;
     width: 22.86px;
     height: 34.5px;
@@ -208,7 +208,7 @@ div {
     transform: rotateZ(20deg);
 }
 
-.white-9 {
+.merah-13 {
     background-color: #E6292E;
     width: 10px;
     height: 10px;
