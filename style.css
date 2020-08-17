@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+body {
+    background-color: #E6292E;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    /* Buat Ngejiplak lol */
+    /* background-image: url(https://lh3.googleusercontent.com/TzAMA91wphQLy9Xa1qnGGvfegq45U8njgtLstaRdf_nu-zoGLvQuMHj_zO3099FeZVSLtY2tk9NNBUV7fw0ACXZMAJl7jC862j9zqRNuthPiI0Ed2FfU-AeEkkZIYO-h_txZbH2yiTRYKpZJl2IDpCh-596jIf3JcN_b8WjYTGMZDVQJ8mNpmZnNATtWkM9OIL3vXjz1EMnbmieEbOGbU-mVSX3G8NQa0KlIKLK2bgP4c7ZKopx7wFfHxr8s8McwD_Itseqmhk68z_vTiBNwqUXFfvkmiQZFFkXBDwkwT9GXGyjpe2Pi6LwRxv3-gvcd2uYkR52mbK5I6xfUaSzyPnX08KsjxqXRob6zdASXIzK_ML8lICsHN7Uz0V5jzXa_Dlzl1IpKFV8sfPrbDQRL35Jkgg5Hq9SxOb1B8qoedpDrdMKUVIoGcWdWPWTixe3gu2PRt2y6W1dLn9bxNQ8Cill6yXYZHPrZWvrC1MPYSPA9Ul39oCm-YVHRSPpI5qzwh0wFrsgB-glACJbQDJYMx59RtTmlx8afjW4TbkqLTBxMLZXn09KlqcePPW7qRheWaODR3Z2SfcoTrL9BjN8cBEvfBh7fTY3kacKrcPP2vpzsUhoJ-1LcZHI5ZR_L7blFBVbIP6Xd1HCL8_2zTKaPdG0ykQ5wHY5iQRMzpphGPloG4soTHKN59S2WAKA8PB8eHpWe=w1920-h942-ft); */
+}
+
+h3 {
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 32pt;
+    line-height: 40px;
+    letter-spacing: 3px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.kresek {
+    display: block;
+    position: relative;
+    width: 284px;
+    height: 342px;
+    margin-bottom: 20px;
+}
+
+div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.white-1 {
+    background-color: white;
+    width: 284px;
+    height: 224px;
+}
+
+.white-2 {
+    background-color: white;
+    width: 142px;
+    height: 118px;
+    top: 224px;
+    clip-path: ellipse(183px 151px at 178px -30px);
+}
+
+.white-3 {
+    background-color: white;
+    width: 142px;
+    height: 118px;
+    top: 224px;
+    left: 142px;
+    clip-path: ellipse(183px 150.81px at 180px -30px);
+    transform: scaleX(-1);
+}
+
+.red-1 {
+    background-color: #E6292E;
+    width: 142.86px;
+    height: 24.6px;
+    top: 46px;
+}
+
+.red-2 {
+    background-color: #E6292E;
+    width: 142.86px;
+    height: 24.6px;
+    top: 70px;
+    left: 142px;
+}
+
+.red-3 {
+    background-color: #E6292E;
+    width: 90.86px;
+    height: 24.1px;
+    top: 119px;
+    left: 63px;
+    transform: rotateZ(-29deg);
+}
+
+.red-4 {
+    background-color: #E6292E;
+    width: 80px;
+    height: 24.6px;
+    top: 98px;
+    left: 75px;
+    transform: rotateZ(-29deg);
+}
+
+.white-4 {
+    background-color: white;
+    width: 142px;
+    height: 38.6px;
+    top: 71px;
+    border-bottom-right-radius: 28px;
+}
+
+.white-5 {
+    background-color: white;
+    width: 80px;
+    height: 24.6px;
+    top: 104px;
+    left: 44px;
+    transform: rotateZ(-29deg);
+}
+
+.red-5 {
+    border: 23px solid #E6292E;
+    border-radius: 100%;
+    width: 96px;
+    height: 96px;
+    top: 213px;
+    left: 189px;
+    transform: translate(-50%, -50%);
+}
+
+.white-6 {
+    background-color: white;
+    width: 71px;
+    height: 70px;
+    top: 142px;
+    left: 117px;
+}
+
+.red-6 {
+    background-color: #E6292E;
+    width: 23px;
+    height: 71.5px;
+    top: 93px;
+    left: 142.6px;
+}
+
+.red-7 {
+    background-color: #E6292E;
+    width: 46.86px;
+    height: 23.5px;
+    top: 141.8px;
+    left: 142.6px;
+}
+
+.red-8 {
+    background-color: #E6292E;
+    width: 22.86px;
+    height: 34.5px;
+    top: 202px;
+    left: 25px;
+}
+
+.red-9 {
+    background-color: #E6292E;
+    width: 22.86px;
+    height: 34.5px;
+    top: 168px;
+    left: 25px;
+    clip-path: ellipse(22px 44px at 22px 44px);
+}
+
+.red-10 {
+    background-color: #E6292E;
+    width: 22.86px;
+    height: 34.5px;
+    top: 148px;
+    left: 37px;
+    clip-path: ellipse(22px 44px at 22px 44px);
+    transform: rotateZ(20deg);
+}
+
+.red-11 {
+    background-color: #E6292E;
+    width: 22.86px;
+    height: 34.5px;
+    top: 135px;
+    left: 50px;
+    clip-path: ellipse(22px 44px at 22px 43px);
+    transform: rotateZ(28deg);
+}
+
+.red-12 {
+    background-color: #E6292E;
+    width: 29.86px;
+    height: 42.5px;
+    top: 161px;
+    left: 47px;
+}
+
+.white-7 {
+    background-color: white;
+    width: 32.86px;
+    height: 34.5px;
+    top: 169px;
+    left: 47px;
+    clip-path: ellipse(23px 41px at 23px 44px);
+}
+
+.white-8 {
+    background-color: white;
+    width: 22.86px;
+    height: 34.5px;
+    top: 157px;
+    left: 58px;
+    clip-path: ellipse(22px 44px at 22px 44px);
+    transform: rotateZ(20deg);
+}
+
+.white-9 {
+    background-color: #E6292E;
+    width: 10px;
+    height: 10px;
+    top: 152px;
+    left: 66px;
+}
